@@ -1,0 +1,18 @@
+.bg{
+    min-height: 100vh;
+    background-color: chocolate;
+}
+  .abs-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+  .form {
+    width: 450px;
+
+  }
+  .fondo{
+    min-height: 100vh;
+    background-color: white;
+  }
