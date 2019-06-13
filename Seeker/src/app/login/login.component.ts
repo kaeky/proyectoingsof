@@ -41,7 +41,7 @@ export class LoginComponent implements OnInit {
         alert("error");
       }else{
         alert("Se Guardo");
-        this.r.navigate(["dashboard"]);
+        this.r.navigate(['dashboard']);
         this.usuario  = {
           nombre : "",
           apellido : "",
@@ -60,7 +60,7 @@ export class LoginComponent implements OnInit {
     this._us.login(this.user).subscribe((data)=>{
 
       if(data.ok){
-        this.r.navigate(["dashboard"]);
+        this.r.navigate(['dashboard']);
       }else{
         alert(data.men);
       }

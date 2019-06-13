@@ -1,0 +1,47 @@
+.button {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 12px 24px;
+    border: 1px solid #a12727;
+    border-radius: 8px;
+    background: #ffb700;
+    background: -webkit-gradient(linear, left top, left bottom, from(#ffb700), to(#ffa200));
+    background: -moz-linear-gradient(top, #ffb700, #ffa200);
+    background: linear-gradient(to bottom, #ffb700, #ffa200);
+    -webkit-box-shadow: #eba338 0px 0px 40px 0px;
+    -moz-box-shadow: #eba338 0px 0px 40px 0px;
+    box-shadow: #eba338 0px 0px 40px 0px;
+    text-shadow: #591717 1px 1px 1px;
+    font: normal normal bold 20px verdana;
+    color: #ffffff;
+    text-decoration: none;
+}
+.button:hover,
+.button:focus {
+    background: #ffdc00;
+    background: -webkit-gradient(linear, left top, left bottom, from(#ffdc00), to(#ffc200));
+    background: -moz-linear-gradient(top, #ffdc00, #ffc200);
+    background: linear-gradient(to bottom, #ffdc00, #ffc200);
+    color: #ffffff;
+    text-decoration: none;
+}
+.button:active {
+    background: #996e00;
+    background: -webkit-gradient(linear, left top, left bottom, from(#996e00), to(#ffa200));
+    background: -moz-linear-gradient(top, #996e00, #ffa200);
+    background: linear-gradient(to bottom, #996e00, #ffa200);
+}
+.button:before{
+    content:  "\0000a0";
+    display: inline-block;
+    height: 24px;
+    width: 24px;
+    line-height: 24px;
+    margin: 0 4px -6px -4px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABNklEQVRIibXVrU4DQRQF4K+bigpUg0ChEASBRJIqJAkJATRBInkBwjOgeQAEQYMnKASCUIPgT+EwhNBFdEo3y862C7snOdkz2cm9c3/mTguJBjEyPoj8H9Sh8xEkdesyB/9GkvkmkXWeixEd46+wJoX8hrWgHzM6tr9ySlJ8Yh8reAg6erhJIeaZZniMBVwH3SnYX7mL0hwvMI/ToLtFEcTQQQ+HOMdtgYMU91gK++6Mix9NURdHeI4YLOKo+DvGxS9M0TpeKxjO8kOu+PkcH+AMcyVpq4yRk70/nro0Ra3gYBlXhkWFF1ziBk94RxuzOCk4ZB8b2MZW0H1h4LWD8S/DTukp76xp2/QHm4btt6qhi7aLmYzDaS5a5VFRBWXDrhDTjOjaxnV+3ciLVivaEe+1otEUfQPV83bSjgu5/QAAAABJRU5ErkJggg==") no-repeat left center transparent;
+    background-size: 100% 100%;
+}

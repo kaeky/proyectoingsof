@@ -36,6 +36,6 @@ mongoose.connect('mongodb://localhost:27017/Seeker', (err) => {
     console.log("Se conecto");
 });
 
-app.listen(3000, function () {
+app.listen(process.env.PORT, function () {
     console.log('Example app listening on port ');
 });

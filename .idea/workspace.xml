@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27d07556-a1ca-4ce2-9a90-072ee8f9020d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Seeker/src/app/model/user.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seeker/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Seeker/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seeker/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Seeker/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seeker/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Seeker/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seeker/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Seeker/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seeker/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Seeker/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seeker/src/assets/images/Educacion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seeker/src/assets/images/Mascotas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seeker/src/assets/images/Seeker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seeker/src/assets/images/aseo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seeker/src/app/dash-board/dash-board.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Seeker/src/app/dash-board/dash-board.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seeker/src/app/login/login.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Seeker/src/app/login/login.component.ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -44,11 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Seeker/src/app/login/login.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="849">
-              <caret line="61" column="18" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
+            <state relative-caret-position="641">
+              <caret line="62" column="36" selection-start-line="62" selection-start-column="36" selection-end-line="62" selection-end-column="36" />
               <folding>
                 <element signature="e#0#50#0" expanded="true" />
               </folding>
@@ -56,32 +56,28 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Seeker/src/app/login/login.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="13" column="90" selection-start-line="13" selection-start-column="90" selection-end-line="13" selection-end-column="90" />
+            <state relative-caret-position="-234">
+              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Seeker/src/app/dash-board/dash-board.component.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Seeker/src/app/app.routing.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="182">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="22" />
               <folding>
                 <element signature="e#0#49#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Seeker/src/app/model/user.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -132,20 +128,9 @@
         <option value="$PROJECT_DIR$/Seeker/src/app/app.routing.ts" />
         <option value="$PROJECT_DIR$/Seeker/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/Seeker/src/app/services/user.service.ts" />
-        <option value="$PROJECT_DIR$/Seeker/src/app/login/login.component.ts" />
         <option value="$PROJECT_DIR$/Seeker/src/app/login/login.component.html" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/proyectoingsof.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-        <option value="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
+        <option value="$PROJECT_DIR$/Seeker/src/app/dash-board/dash-board.component.html" />
+        <option value="$PROJECT_DIR$/Seeker/src/app/login/login.component.ts" />
       </list>
     </option>
   </component>
@@ -217,6 +202,21 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="services" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="proyectoingsof" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proyectoingsof" type="462c0819:PsiDirectoryNode" />
+              <item name="Seeker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proyectoingsof" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proyectoingsof" type="462c0819:PsiDirectoryNode" />
+              <item name="Seeker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -225,6 +225,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -236,6 +237,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.TypeScript" />
     <property name="ts.external.directory.path" value="C:\Users\kaeky\Desktop\ProyectoFinal\proyectoingsof\Seeker\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kaeky\Desktop\ProyectoFinal\proyectoingsof\Seeker\src\assets\images" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -259,16 +265,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560370205565</updated>
-      <workItem from="1560370207868" duration="10989000" />
+      <workItem from="1560370207868" duration="11579000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10989000" />
+    <option name="totallyTimeSpent" value="11579000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
@@ -338,26 +343,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Seeker/src/app/app.routing.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#49#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Seeker/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Seeker/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -392,20 +377,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Seeker/src/app/login/login.component.ts">
+    <entry file="file://$USER_HOME$/Downloads/pantallaincio/Inicio.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="849">
-          <caret line="61" column="18" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
+        <state relative-caret-position="225">
+          <caret line="12" selection-start-line="12" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seeker/src/app/dash-board/dash-board.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seeker/src/app/app.routing.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="22" />
           <folding>
-            <element signature="e#0#50#0" expanded="true" />
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seeker/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Seeker/src/app/login/login.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="13" column="90" selection-start-line="13" selection-start-column="90" selection-end-line="13" selection-end-column="90" />
+        <state relative-caret-position="-234">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seeker/src/app/login/login.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="62" column="36" selection-start-line="62" selection-start-column="36" selection-end-line="62" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

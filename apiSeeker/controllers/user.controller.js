@@ -101,14 +101,9 @@ let login = (req, res)=>{
                 men: "Usuario o clave Invalida"
             })            
         }
-
-        let token = jwt.sign({
-            data: usuario
-        }, process.env.SECRET, {expiresIn: '4h' });
         res.json({
             ok: true,
-            usuario,
-            token
+            usuario
         });
     });
 
